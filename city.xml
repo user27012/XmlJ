@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<city size="huge">
+    <name>Kiev</name>
+    <street name="Shevchenko">
+        <dom number="0"/>
+        <dom number="0"/>
+    </street>
+</city>
